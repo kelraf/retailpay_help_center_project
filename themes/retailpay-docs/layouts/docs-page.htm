@@ -1,0 +1,86 @@
+description = "Docs Page"
+
+[staticBreadcrumbs]
+
+[staticPage]
+useContent = 1
+default = 0
+
+[staticMenu docsMenu]
+code = "docsMenu"
+
+[childPages]
+==
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>RetailPay | Value for Everyone</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Value for Everyone">
+    
+    {% partial 'files/css' %}
+
+
+</head>
+
+<body data-spy="scroll" data-offset="200" data-target=".navbar">
+
+    <div class="wrapper-1600">
+
+    {% partial 'layouts/header' %}
+
+
+    <div class="main-container">
+        <section class="bg-black-blue text-light height-20">
+            <div class="container align-self-center">
+                <div class="row">
+                    <div class="col-12 col-md-4">
+                        <h1 class="h1 mb-2">Retailers Guide</h1>
+                    </div>
+                    <div class="col-12 col-md-8">
+                        <input class="form-control form-control-lg" type="text" placeholder="Search our documentation">
+                    </div>
+                </div>
+            </div>
+            <!--end of container-->
+        </section>
+        <!--end of section-->
+
+        {% partial 'layouts/breadcrumb' %}
+
+        <section class="bg-white py-0">
+            <div class="container-fluid">
+                <div class="row flex-xl-nowrap">
+                    <div class="col-12 col-md-3 col-xl-2 bd-sidebar">
+                        {% partial 'layouts/sidenav'%}
+                    </div>
+                    <!--end of col-->
+
+                    <div class="col-12 col-md-8 pl-5 pt-5">
+                       
+                       <h1>{{ this.page.title }}</h1>
+                       {% page %}
+                    </div>
+                    <!--end of col-->
+                </div>
+                <!--end of row-->
+            </div>
+            <!--end of container-->
+        </section>
+        <!--end of section-->
+
+
+        {%  partial 'layouts/footer'%}
+        
+    </div>
+    </div>
+
+    {% partial 'files/js' %}
+
+
+
+</body>
+
+</html>

@@ -1,0 +1,27 @@
+[viewBag]
+==
+{# Renders a menu with any child static pages #}
+
+{% set parentOrSelf = page.parent ?: page %}
+{% set childPages = parentOrSelf.children %}
+
+
+<nav class="collapse bd-links" id="bd-docs-nav">
+    {% for childPage in childPages if not childPage.navigation_hidden %}
+    <div class="bd-toc-item {{ page.url == childPage.url ? 'active' }}">
+        <a class="bd-toc-link" href="{{ childPage.url|app }}">
+            {{ childPage.title }}
+        </a>
+        <ul class="nav bd-sidenav">
+            {% for childChildPage in childPage.children if not childChildPage.navigation_hidden %}
+            <li class="{{ page.url == childChildPage.url ? 'active bd-sidenav-active' }}">
+                <a href="{{ childChildPage.url|app }}">
+                    {{ childChildPage.title }}
+                </a>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+
+    {% endfor %}
+</nav>

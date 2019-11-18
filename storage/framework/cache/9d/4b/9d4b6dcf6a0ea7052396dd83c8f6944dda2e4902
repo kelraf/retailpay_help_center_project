@@ -1,0 +1,62 @@
+1574081171a:1:{s:29:"retailers-users-and-roles.htm";a:7:{s:8:"fileName";s:29:"retailers-users-and-roles.htm";s:7:"content";s:884:"[viewBag]
+title = "Users and Roles"
+url = "/retailers/users-and-roles"
+layout = "docs-page"
+is_hidden = 0
+navigation_hidden = 0
+==
+<p>Add users and specify their roles. Each must log in with their unique credentials. You can add users, specify their roles and control their permissions</p>
+
+<p class="lead">Create users</p>
+
+<ul>
+	<li>Sign in to the&nbsp;web portal</li>
+	<li>Click on ‘retail’ and ‘user management’ and select ‘users’&nbsp;</li>
+	<li>Click ‘+’ to add a new user and provide the required information</li>
+	<li>Select desired role and assign to user</li>
+</ul>
+
+<p class="lead">Create roles</p>
+
+<ul>
+	<li>Go to the web portal</li>
+	<li>Click on retail then user management and select roles</li>
+	<li>Click ‘+’ to add a new role&nbsp;and provide the required information</li>
+	<li>Select the desired permissions and save</li>
+</ul>";s:5:"mtime";i:1573947234;s:6:"markup";s:753:"<p>Add users and specify their roles. Each must log in with their unique credentials. You can add users, specify their roles and control their permissions</p>
+
+<p class="lead">Create users</p>
+
+<ul>
+	<li>Sign in to the&nbsp;web portal</li>
+	<li>Click on ‘retail’ and ‘user management’ and select ‘users’&nbsp;</li>
+	<li>Click ‘+’ to add a new user and provide the required information</li>
+	<li>Select desired role and assign to user</li>
+</ul>
+
+<p class="lead">Create roles</p>
+
+<ul>
+	<li>Go to the web portal</li>
+	<li>Click on retail then user management and select roles</li>
+	<li>Click ‘+’ to add a new role&nbsp;and provide the required information</li>
+	<li>Select the desired permissions and save</li>
+</ul>";s:4:"code";N;s:7:"viewBag";a:5:{s:5:"title";s:15:"Users and Roles";s:3:"url";s:26:"/retailers/users-and-roles";s:6:"layout";s:9:"docs-page";s:9:"is_hidden";s:1:"0";s:17:"navigation_hidden";s:1:"0";}s:12:"parsedMarkup";s:753:"<p>Add users and specify their roles. Each must log in with their unique credentials. You can add users, specify their roles and control their permissions</p>
+
+<p class="lead">Create users</p>
+
+<ul>
+	<li>Sign in to the&nbsp;web portal</li>
+	<li>Click on ‘retail’ and ‘user management’ and select ‘users’&nbsp;</li>
+	<li>Click ‘+’ to add a new user and provide the required information</li>
+	<li>Select desired role and assign to user</li>
+</ul>
+
+<p class="lead">Create roles</p>
+
+<ul>
+	<li>Go to the web portal</li>
+	<li>Click on retail then user management and select roles</li>
+	<li>Click ‘+’ to add a new role&nbsp;and provide the required information</li>
+	<li>Select the desired permissions and save</li>
+</ul>";}}

@@ -1,0 +1,8 @@
+static-pages:
+    home: {  }
+    retailers:
+        retailers-getting-started-retailpay:
+            retailers-getting-started-retailpay-introduction-dsfffdfd: {  }
+            retailers-getting-started-retailpay-introduction: {  }
+        retailers-users-and-roles: {  }
+        retailers-selling: {  }

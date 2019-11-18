@@ -1,0 +1,83 @@
+1574081171a:1:{s:19:"layouts/mobinav.htm";a:6:{s:8:"fileName";s:19:"layouts/mobinav.htm";s:7:"content";s:1859:"[viewBag]
+==
+<!--Mobile Vertical Navigation-->
+
+
+    <div class="drawer drawer-left slide" tabindex="-1" role="dialog" aria-labelledby="drawer-1-title"
+        aria-hidden="true" id="drawer-1">
+        <div class="drawer-content drawer-content-scrollable" role="document">
+            <div class="drawer-header">
+                <div class="d-flex justify-content-between">
+                    <img alt="RetailPay" class="retail-color" height="35px" src="assets/img/logo-retailpay.svg" />
+                    <div>
+                        <a href="<%= session_path(@conn, :signin) %>" class="btn btn-primary">Sign in</a>
+                    </div>
+                </div>
+            </div>
+            <div class="drawer-body">
+                <ul class="retail-nav navbar-nav border-bottom">
+                    <li class="nav-item">
+                        <a class="nav-link" href="supplier.html">Supplier</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="retailer.html">Retailers</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link disabled">Distributors</a>
+                    </li>
+                    <li class="nav-item active">
+                        <a href="help-center.html" target="_blank" class="nav-link">Help Center</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="drawer-footer">
+                <ul class="navbar-nav wd-100p">
+                    <li class="nav-item">
+                        <a class="nav-link" href="<%= page_path(@conn, :suppliers) %>">Terms and conditions</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <!--End Vertical Mobile Nav-->";s:5:"mtime";i:1573930223;s:6:"markup";s:1846:"<!--Mobile Vertical Navigation-->
+
+
+    <div class="drawer drawer-left slide" tabindex="-1" role="dialog" aria-labelledby="drawer-1-title"
+        aria-hidden="true" id="drawer-1">
+        <div class="drawer-content drawer-content-scrollable" role="document">
+            <div class="drawer-header">
+                <div class="d-flex justify-content-between">
+                    <img alt="RetailPay" class="retail-color" height="35px" src="assets/img/logo-retailpay.svg" />
+                    <div>
+                        <a href="<%= session_path(@conn, :signin) %>" class="btn btn-primary">Sign in</a>
+                    </div>
+                </div>
+            </div>
+            <div class="drawer-body">
+                <ul class="retail-nav navbar-nav border-bottom">
+                    <li class="nav-item">
+                        <a class="nav-link" href="supplier.html">Supplier</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="retailer.html">Retailers</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link disabled">Distributors</a>
+                    </li>
+                    <li class="nav-item active">
+                        <a href="help-center.html" target="_blank" class="nav-link">Help Center</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="drawer-footer">
+                <ul class="navbar-nav wd-100p">
+                    <li class="nav-item">
+                        <a class="nav-link" href="<%= page_path(@conn, :suppliers) %>">Terms and conditions</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <!--End Vertical Mobile Nav-->";s:4:"code";N;s:7:"viewBag";a:0:{}}}

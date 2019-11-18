@@ -1,0 +1,16 @@
+static-pages:
+    retailer:
+        getting-started-retailpay: {  }
+        users-and-roles: {  }
+        selling: {  }
+        stock-management: {  }
+        returns: {  }
+        managing-your-store: {  }
+        adjusting-prices-cost-retail-markup-and-retail-price: {  }
+        customers: {  }
+        offline-suppliers: {  }
+        cash-management: {  }
+        re-orders: {  }
+        reports: {  }
+        faqs-customer-service: {  }
+        faqs-technical-support: {  }

@@ -1,0 +1,8 @@
+name: RetailPay Docs
+description: "RetailPay Documentation"
+author: "Value Chain Factory"
+homepage: "http://valuechainfactory.com"
+code:
+form: theme_fields.yaml
+require:
+  - RainLab.Blog

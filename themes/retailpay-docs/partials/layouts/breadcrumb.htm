@@ -1,0 +1,37 @@
+[staticBreadcrumbs]
+
+[viewBag]
+==
+<section class="bg-white border-bottom mb-0 py-0">
+    <nav aria-label="breadcrumb" role="navigation" class="bg-white">
+        <div class="container-fluid">
+            <div class="row justify-content-center">
+                <div class="col">
+                    {% if breadcrumbs %}
+                        <ol class="breadcrumb">
+                            <li class="breadcrumb-item"><a href="/">Help Center</a></li>
+                            {% for breadcrumb in breadcrumbs %}
+                            
+                                {% if breadcrumb.isActive %}
+                                    <li class="breadcrumb-item active" aria-current="page">
+                                        {{ breadcrumb.title }}
+                                    </li>
+                                {% else %}
+                                
+                                <li class="breadcrumb-item">
+                                        <a href="{{ breadcrumb.url }}">{{ breadcrumb.title }}</a>
+                                </li>
+                                    
+                                {% endif %}
+                            
+                            {% endfor %}
+                        </ol>
+                    {% endif %}
+                  </div>
+                <!--end of col-->
+            </div>
+            <!--end of row-->
+        </div>
+        <!--end of container-->
+    </nav>
+</section>

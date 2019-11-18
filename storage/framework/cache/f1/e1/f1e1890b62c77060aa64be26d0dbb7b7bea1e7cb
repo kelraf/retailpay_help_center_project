@@ -1,0 +1,51 @@
+1574081178a:1:{s:19:"layouts/sidenav.htm";a:6:{s:8:"fileName";s:19:"layouts/sidenav.htm";s:7:"content";s:926:"[viewBag]
+==
+{# Renders a menu with any child static pages #}
+
+{% set parentOrSelf = page.parent ?: page %}
+{% set childPages = parentOrSelf.children %}
+
+
+<nav class="collapse bd-links" id="bd-docs-nav">
+    {% for childPage in childPages if not childPage.navigation_hidden %}
+    <div class="bd-toc-item {{ page.url == childPage.url ? 'active' }}">
+        <a class="bd-toc-link" href="{{ childPage.url|app }}">
+            {{ childPage.title }}
+        </a>
+        <ul class="nav bd-sidenav">
+            {% for childChildPage in childPage.children if not childChildPage.navigation_hidden %}
+            <li class="{{ page.url == childChildPage.url ? 'active bd-sidenav-active' }}">
+                <a href="{{ childChildPage.url|app }}">
+                    {{ childChildPage.title }}
+                </a>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+
+    {% endfor %}
+</nav>";s:5:"mtime";i:1574076266;s:6:"markup";s:913:"{# Renders a menu with any child static pages #}
+
+{% set parentOrSelf = page.parent ?: page %}
+{% set childPages = parentOrSelf.children %}
+
+
+<nav class="collapse bd-links" id="bd-docs-nav">
+    {% for childPage in childPages if not childPage.navigation_hidden %}
+    <div class="bd-toc-item {{ page.url == childPage.url ? 'active' }}">
+        <a class="bd-toc-link" href="{{ childPage.url|app }}">
+            {{ childPage.title }}
+        </a>
+        <ul class="nav bd-sidenav">
+            {% for childChildPage in childPage.children if not childChildPage.navigation_hidden %}
+            <li class="{{ page.url == childChildPage.url ? 'active bd-sidenav-active' }}">
+                <a href="{{ childChildPage.url|app }}">
+                    {{ childChildPage.title }}
+                </a>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+
+    {% endfor %}
+</nav>";s:4:"code";N;s:7:"viewBag";a:0:{}}}

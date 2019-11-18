@@ -1,0 +1,23 @@
+[viewBag]
+==
+<div class="nav-container">
+        <div class="bg-white navbar-light">
+                <nav class="navbar navbar-expand-lg retail-nav">
+                    <a class="navbar-brand" href="/">
+                        <img alt="Retailpay" height="35px" src="{{ 'assets/img/logo-retailpay-hc.svg'|theme }}" />
+                    </a>
+
+                    <button type="button" class="navbar-toggler" data-toggle="drawer" data-target="#drawer-1">
+                        <i class="icon-menu h4"></i>
+                    </button>
+                    
+                      {% partial 'layouts/nav'%}
+
+                </nav>
+            <!--end of container-->
+        </div>
+    </div>
+
+
+
+   {% partial 'layouts/mobinav'%}

@@ -1,0 +1,47 @@
+1574081171a:1:{s:39:"retailers-getting-started-retailpay.htm";a:7:{s:8:"fileName";s:39:"retailers-getting-started-retailpay.htm";s:7:"content";s:651:"[viewBag]
+title = "Getting Started"
+url = "/retailers/getting-started"
+layout = "docs-page"
+is_hidden = 0
+navigation_hidden = 0
+==
+<p class="lead">Onboarding on RetailPay</p>
+
+<p>To join RetailPay, you must have a secure business premise (duka, minimart, supermarket) Our team will visit your shop and you’ll need to submit the following:</p>
+
+<ul>
+	<li>National ID</li>
+	<li>Current business permit</li>
+	<li>Business registration</li>
+	<li>KRA pin</li>
+	<li>Passport photo</li>
+	<li>Your bank details (bank name and account number)</li>
+</ul>
+
+<p>We will create your username and password which you will use to log into the system</p>";s:5:"mtime";i:1574073760;s:6:"markup";s:520:"<p class="lead">Onboarding on RetailPay</p>
+
+<p>To join RetailPay, you must have a secure business premise (duka, minimart, supermarket) Our team will visit your shop and you’ll need to submit the following:</p>
+
+<ul>
+	<li>National ID</li>
+	<li>Current business permit</li>
+	<li>Business registration</li>
+	<li>KRA pin</li>
+	<li>Passport photo</li>
+	<li>Your bank details (bank name and account number)</li>
+</ul>
+
+<p>We will create your username and password which you will use to log into the system</p>";s:4:"code";N;s:7:"viewBag";a:5:{s:5:"title";s:15:"Getting Started";s:3:"url";s:26:"/retailers/getting-started";s:6:"layout";s:9:"docs-page";s:9:"is_hidden";s:1:"0";s:17:"navigation_hidden";s:1:"0";}s:12:"parsedMarkup";s:520:"<p class="lead">Onboarding on RetailPay</p>
+
+<p>To join RetailPay, you must have a secure business premise (duka, minimart, supermarket) Our team will visit your shop and you’ll need to submit the following:</p>
+
+<ul>
+	<li>National ID</li>
+	<li>Current business permit</li>
+	<li>Business registration</li>
+	<li>KRA pin</li>
+	<li>Passport photo</li>
+	<li>Your bank details (bank name and account number)</li>
+</ul>
+
+<p>We will create your username and password which you will use to log into the system</p>";}}

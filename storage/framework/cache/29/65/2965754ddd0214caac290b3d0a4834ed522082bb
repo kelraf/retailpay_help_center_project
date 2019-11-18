@@ -1,0 +1,38 @@
+1574081171a:1:{s:21:"retailers-selling.htm";a:7:{s:8:"fileName";s:21:"retailers-selling.htm";s:7:"content";s:804:"[viewBag]
+title = "Selling"
+url = "/retailers/selling"
+layout = "docs-page"
+is_hidden = 0
+navigation_hidden = 0
+==
+<p class="lead">Sell by adding products to the cart</p>
+
+<p>Follow the steps below</p>
+
+<ol>
+	<li>Scan the product barcode (make sure the arrow in the computer is at the center of the screen) <strong>OR</strong></li>
+	<li>For items without a barcode, type the product name/s on the search bar and add to the cart</li>
+	<li>To add more products, either click on the ‘+’ sign or click in the box and type the number of products purchased</li>
+	<li>To remove a product from the cart, click ‘x’ at the end of the product row or clear the entire cart by clicking the bin icon next to the sub total</li>
+	<li>Select your mode of payment at the RetailPay POS checkout</li>
+</ol>";s:5:"mtime";i:1574073730;s:6:"markup";s:689:"<p class="lead">Sell by adding products to the cart</p>
+
+<p>Follow the steps below</p>
+
+<ol>
+	<li>Scan the product barcode (make sure the arrow in the computer is at the center of the screen) <strong>OR</strong></li>
+	<li>For items without a barcode, type the product name/s on the search bar and add to the cart</li>
+	<li>To add more products, either click on the ‘+’ sign or click in the box and type the number of products purchased</li>
+	<li>To remove a product from the cart, click ‘x’ at the end of the product row or clear the entire cart by clicking the bin icon next to the sub total</li>
+	<li>Select your mode of payment at the RetailPay POS checkout</li>
+</ol>";s:4:"code";N;s:7:"viewBag";a:5:{s:5:"title";s:7:"Selling";s:3:"url";s:18:"/retailers/selling";s:6:"layout";s:9:"docs-page";s:9:"is_hidden";s:1:"0";s:17:"navigation_hidden";s:1:"0";}s:12:"parsedMarkup";s:689:"<p class="lead">Sell by adding products to the cart</p>
+
+<p>Follow the steps below</p>
+
+<ol>
+	<li>Scan the product barcode (make sure the arrow in the computer is at the center of the screen) <strong>OR</strong></li>
+	<li>For items without a barcode, type the product name/s on the search bar and add to the cart</li>
+	<li>To add more products, either click on the ‘+’ sign or click in the box and type the number of products purchased</li>
+	<li>To remove a product from the cart, click ‘x’ at the end of the product row or clear the entire cart by clicking the bin icon next to the sub total</li>
+	<li>Select your mode of payment at the RetailPay POS checkout</li>
+</ol>";}}

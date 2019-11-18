@@ -1,0 +1,81 @@
+1574081500a:1:{s:13:"docsMenu.yaml";a:7:{s:8:"fileName";s:13:"docsMenu.yaml";s:7:"content";s:2594:"name: Docs-menu
+items:
+    -
+        title: Retailers
+        nesting: '0'
+        type: static-page
+        code: ''
+        reference: retailers-getting-started-retailpay
+        replace: '0'
+        viewBag:
+            isHidden: '0'
+            cssClass: ''
+            isExternal: '0'
+        items:
+            -
+                title: 'Getting Started'
+                nesting: '0'
+                type: static-page
+                url: ''
+                code: ''
+                reference: retailers-getting-started-retailpay
+                cmsPage: ''
+                replace: '0'
+                viewBag:
+                    isHidden: '0'
+                    cssClass: ''
+                    isExternal: '0'
+                items:
+                    -
+                        title: Introduction
+                        nesting: '0'
+                        type: static-page
+                        url: ''
+                        code: ''
+                        reference: retailers-getting-started-retailpay-introduction
+                        cmsPage: ''
+                        replace: '0'
+                        viewBag:
+                            isHidden: '0'
+                            cssClass: ''
+                            isExternal: '0'
+                    -
+                        title: dsfffdfd
+                        nesting: '0'
+                        type: static-page
+                        url: ''
+                        code: ''
+                        reference: retailers-getting-started-retailpay-introduction-dsfffdfd
+                        cmsPage: ''
+                        replace: '0'
+                        viewBag:
+                            isHidden: '0'
+                            cssClass: ''
+                            isExternal: '0'
+            -
+                title: 'Users and Roles'
+                nesting: '0'
+                type: static-page
+                url: ''
+                code: ''
+                reference: retailers-users-and-roles
+                cmsPage: ''
+                replace: '0'
+                viewBag:
+                    isHidden: '0'
+                    cssClass: ''
+                    isExternal: '0'
+            -
+                title: Selling
+                nesting: '0'
+                type: static-page
+                url: ''
+                code: ''
+                reference: retailers-selling
+                cmsPage: ''
+                replace: '0'
+                viewBag:
+                    isHidden: '0'
+                    cssClass: ''
+                    isExternal: '0'
+";s:5:"mtime";i:1574080892;s:6:"markup";N;s:4:"code";N;s:4:"name";N;s:5:"items";a:0:{}}}

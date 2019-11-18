@@ -1,0 +1,170 @@
+items:
+    -
+        title: Retailer
+        nesting: ''
+        type: url
+        url: /retailer
+        code: ''
+        reference: ''
+        cmsPage: ''
+        replace: ''
+        viewBag:
+            isHidden: '0'
+            cssClass: ''
+            isExternal: '0'
+        items:
+            -
+                title: 'Getting Started with RetailPay'
+                nesting: '0'
+                type: static-page
+                code: ''
+                reference: getting-started-retailpay
+                replace: '0'
+                viewBag:
+                    isHidden: '0'
+                    cssClass: ''
+                    isExternal: '0'
+            -
+                title: 'Users and Roles'
+                nesting: '0'
+                type: static-page
+                code: ''
+                reference: users-and-roles
+                replace: '0'
+                viewBag:
+                    isHidden: '0'
+                    cssClass: ''
+                    isExternal: '0'
+            -
+                title: Selling
+                nesting: '0'
+                type: static-page
+                code: ''
+                reference: selling
+                replace: '0'
+                viewBag:
+                    isHidden: '0'
+                    cssClass: ''
+                    isExternal: '0'
+            -
+                title: 'Stock Management'
+                nesting: '0'
+                type: static-page
+                code: ''
+                reference: stock-management
+                replace: '0'
+                viewBag:
+                    isHidden: '0'
+                    cssClass: ''
+                    isExternal: '0'
+            -
+                title: Returns
+                nesting: '0'
+                type: static-page
+                code: ''
+                reference: returns
+                replace: '0'
+                viewBag:
+                    isHidden: '0'
+                    cssClass: ''
+                    isExternal: '0'
+            -
+                title: Reports
+                nesting: '0'
+                type: static-page
+                code: ''
+                reference: reports
+                replace: '0'
+                viewBag:
+                    isHidden: '0'
+                    cssClass: ''
+                    isExternal: '0'
+            -
+                title: 'FAQs-Customer Service'
+                nesting: '0'
+                type: static-page
+                code: ''
+                reference: faqs-customer-service
+                replace: '0'
+                viewBag:
+                    isHidden: '0'
+                    cssClass: ''
+                    isExternal: '0'
+            -
+                title: 'FAQs-Technical Support'
+                nesting: '0'
+                type: static-page
+                code: ''
+                reference: faqs-technical-support
+                replace: '0'
+                viewBag:
+                    isHidden: '0'
+                    cssClass: ''
+                    isExternal: '0'
+            -
+                title: Re-orders
+                nesting: '0'
+                type: static-page
+                code: ''
+                reference: re-orders
+                replace: '0'
+                viewBag:
+                    isHidden: '0'
+                    cssClass: ''
+                    isExternal: '0'
+            -
+                title: 'Managing your store'
+                nesting: '0'
+                type: static-page
+                code: ''
+                reference: managing-your-store
+                replace: '0'
+                viewBag:
+                    isHidden: '0'
+                    cssClass: ''
+                    isExternal: '0'
+            -
+                title: 'Cash Management'
+                nesting: '0'
+                type: static-page
+                code: ''
+                reference: cash-management
+                replace: '0'
+                viewBag:
+                    isHidden: '0'
+                    cssClass: ''
+                    isExternal: '0'
+            -
+                title: 'Adjusting prices (cost, retail markup and Retail price)'
+                nesting: '0'
+                type: static-page
+                code: ''
+                reference: adjusting-prices-cost-retail-markup-and-retail-price
+                replace: '0'
+                viewBag:
+                    isHidden: '0'
+                    cssClass: ''
+                    isExternal: '0'
+            -
+                title: Customers
+                nesting: '0'
+                type: static-page
+                code: ''
+                reference: customers
+                replace: '0'
+                viewBag:
+                    isHidden: '0'
+                    cssClass: ''
+                    isExternal: '0'
+            -
+                title: 'Offline Suppliers'
+                nesting: '0'
+                type: static-page
+                code: ''
+                reference: offline-suppliers
+                replace: '0'
+                viewBag:
+                    isHidden: '0'
+                    cssClass: ''
+                    isExternal: '0'
+name: 'Docs Menu'

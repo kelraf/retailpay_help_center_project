@@ -1,0 +1,191 @@
+1574081171a:1:{s:18:"layouts/footer.htm";a:6:{s:8:"fileName";s:18:"layouts/footer.htm";s:7:"content";s:4351:"[viewBag]
+==
+<footer class="bg-black-blue text-light footer-long">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 col-md-3">
+                        <img alt="Image" src="{{ 'assets/img/logo-retailpay-white.svg'|theme }}" class="mb-4" />
+                        <p class="text-muted">
+                            &copy; 2018 RetailPay Limited.
+                            <br />All rights reserved.
+                        </p>
+                    </div>
+                    <!--end of col-->
+                    <div class="col-12 col-md-9">
+                        <span class="h5">Value for Everyone</span>
+                        <div class="row no-gutters">
+                            <div class="col-6 col-lg-3">
+                                <h6>RetailPay</h6>
+                                <ul class="list-unstyled">
+                                    <li>
+                                        <a href="#">About RetailPay</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Careers</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Press and News</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">POS</a>
+                                    </li>
+
+                                    <li>
+                                        <a href="terms-of-service.html">Terms of Service</a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <!--end of col-->
+                            <div class="col-6 col-lg-3">
+                                <h6>Suppliers</h6>
+                                <ul class="list-unstyled">
+                                    <li>
+                                        <a href="#">Our Solution</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Benefits</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Features</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Requirements</a>
+                                    </li>
+
+                                    <li>
+                                        <a href="#">FAQs</a>
+                                    </li>
+
+                                </ul>
+                            </div>
+                            <!--end of col-->
+                            <div class="col-6 col-lg-3">
+                                <h6>Retailers</h6>
+                                <ul class="list-unstyled">
+                                    <li>
+                                        <a href="#">Our Solution</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Benefits</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Features</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Requirements</a>
+                                    </li>
+
+                                    <li>
+                                        <a href="#">FAQs</a>
+                                    </li>
+
+                                </ul>
+                            </div>
+                            <!--end of col-->
+                            <div class="col-6 col-lg-3">
+
+                            </div>
+                            <!--end of col-->
+                        </div>
+                        <!--end of row-->
+                    </div>
+                    <!--end of col-->
+                </div>
+                <!--end of row-->
+            </div>
+            <!--end of container-->
+        </footer>";s:5:"mtime";i:1573832340;s:6:"markup";s:4338:"<footer class="bg-black-blue text-light footer-long">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 col-md-3">
+                        <img alt="Image" src="{{ 'assets/img/logo-retailpay-white.svg'|theme }}" class="mb-4" />
+                        <p class="text-muted">
+                            &copy; 2018 RetailPay Limited.
+                            <br />All rights reserved.
+                        </p>
+                    </div>
+                    <!--end of col-->
+                    <div class="col-12 col-md-9">
+                        <span class="h5">Value for Everyone</span>
+                        <div class="row no-gutters">
+                            <div class="col-6 col-lg-3">
+                                <h6>RetailPay</h6>
+                                <ul class="list-unstyled">
+                                    <li>
+                                        <a href="#">About RetailPay</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Careers</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Press and News</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">POS</a>
+                                    </li>
+
+                                    <li>
+                                        <a href="terms-of-service.html">Terms of Service</a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <!--end of col-->
+                            <div class="col-6 col-lg-3">
+                                <h6>Suppliers</h6>
+                                <ul class="list-unstyled">
+                                    <li>
+                                        <a href="#">Our Solution</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Benefits</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Features</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Requirements</a>
+                                    </li>
+
+                                    <li>
+                                        <a href="#">FAQs</a>
+                                    </li>
+
+                                </ul>
+                            </div>
+                            <!--end of col-->
+                            <div class="col-6 col-lg-3">
+                                <h6>Retailers</h6>
+                                <ul class="list-unstyled">
+                                    <li>
+                                        <a href="#">Our Solution</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Benefits</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Features</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Requirements</a>
+                                    </li>
+
+                                    <li>
+                                        <a href="#">FAQs</a>
+                                    </li>
+
+                                </ul>
+                            </div>
+                            <!--end of col-->
+                            <div class="col-6 col-lg-3">
+
+                            </div>
+                            <!--end of col-->
+                        </div>
+                        <!--end of row-->
+                    </div>
+                    <!--end of col-->
+                </div>
+                <!--end of row-->
+            </div>
+            <!--end of container-->
+        </footer>";s:4:"code";N;s:7:"viewBag";a:0:{}}}

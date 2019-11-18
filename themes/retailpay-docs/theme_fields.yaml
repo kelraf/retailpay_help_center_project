@@ -1,0 +1,36 @@
+# ===================================
+#  Field Definitions
+# ===================================
+
+fields:
+  site_name:
+    label: Site Name
+    comment:
+    default: RetailPay Help Center
+    span: auto
+
+  site_motto:
+    label: Site Motto
+    comment:
+    default: Value for everyone
+    span: auto
+
+  facebook_url:
+    label: Facebook URL
+    span: auto
+    default: https://www.facebook.com/
+
+  twitter_url:
+    label: Twitter URL
+    span: auto
+    default: https://www.twitter.com/
+
+  linkedin_url:
+    label: Linkedin URL
+    span: auto
+    default: https://www.linkedin.com/
+
+  instagram_url:
+    label: Instagram URL
+    span: auto
+    default: https://www.instagram.com/
